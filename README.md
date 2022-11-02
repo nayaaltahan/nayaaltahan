@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Naya
-- 👀 I’m interested in game development
+- 👀 I’m interested in Game development
 - 🌱 I’m currently learning Blender, Unity
 
 <!---
