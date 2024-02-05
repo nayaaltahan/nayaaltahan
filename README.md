@@ -1,5 +1,5 @@
-Hi, I'm Naya
-Game developer 
+- Hi, I'm Naya 👋 
+- Game developer 🎮
 
 <!---
 nayaaltahan/nayaaltahan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
